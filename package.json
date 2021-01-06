@@ -6,7 +6,6 @@
   "author": "Defite",
   "license": "MIT",
   "dependencies": {
-    "minimist": "^1.2.5",
     "mustache": "^4.1.0"
   }
 }
