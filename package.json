@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-admin",
+  "version": "1.0.0",
+  "description": "Simple admin interface for Gatsby based blog",
+  "main": "index.js",
+  "author": "Defite",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "mustache": "^4.1.0"
+  }
+}
